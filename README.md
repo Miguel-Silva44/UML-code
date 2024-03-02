@@ -1,2 +1,2 @@
-UML Code/
+# UML Code
 Códigos gerados de Uml
